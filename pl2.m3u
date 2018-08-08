@@ -1,207 +1,341 @@
 #EXTM3U
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", 13 ulica
-http://ns335506.ip-5-196-76.eu:8080/live/PL-13-ulica/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Ale Kino
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Ale-Kino/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Amazing
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Amazing/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Animal Planet
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Animal-Planet/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", ATM Rozrywka
-http://ns335506.ip-5-196-76.eu:8080/live/PL-ATM-Rozrywka/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Astra TV
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Astra-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Cafe
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Cafe/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Film
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Film/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Romans
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Plosat-Romans/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Play
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Play/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat News
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-News/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat News 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-News-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Republika
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Republika/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport Extra
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-Extra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport News
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-News/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport Fight
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-Fight/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cartoon Network
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Cartoon-Network/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cinemax
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Cinemax/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cinemax 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Cinemax-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal+
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal+/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Discovery
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Discovery/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Film
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Film/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Family
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Family/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Seriale
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Seriale/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Sport
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Sport 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Sport-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven Extra
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven-Extra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven Sports
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven-Sports/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eurosport 1
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eurosport-1/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eurosport 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eurosport-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Extreme Sports
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Extreme-Sports/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", FightBox
-http://ns335506.ip-5-196-76.eu:8080/live/PL-FightBox/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Fokus
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Fokus/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", FOX Comedy
-http://ns335506.ip-5-196-76.eu:8080/live/PL-FOX-Comedy/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", nSport
-http://ns335506.ip-5-196-76.eu:8080/live/PL-nSport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", nSport Plus
-http://ns335506.ip-5-196-76.eu:8080/live/PL-nSport-Plus/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Kino Polska
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Kino-Polska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", History
-http://ns335506.ip-5-196-76.eu:8080/live/PL-History/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Channel
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Channel/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Historia
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Historia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Life
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Life/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Turbo Xtra
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Turbo-Xtra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery science
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Science/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Arthouse
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Arthouse/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Action
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Action/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Family
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Family/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Premium
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Premium/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TLC
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TLC/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TNT
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TNT/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Puls
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Puls/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Puls 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Puls-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Trwam
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Trwam/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-7767/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN 7
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-7/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN Turbo
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-Turbo/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV4
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TV4/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV6
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TV6/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", JimJam
-http://ns335506.ip-5-196-76.eu:8080/live/PL-JimJam/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 1
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-1/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 3
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-3/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Historia
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Historia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Info
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Info/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Sport
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Polonia
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Polonia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Seriale
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Seriale/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN24
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN24/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Nat Geo Wild
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Nat-Geo-Wild/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", National Geographic
-http://ns335506.ip-5-196-76.eu:8080/live/PL-National-Geographic/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Nickelodeon
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Nickelodeon/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO
-http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO 2
-http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO 3
-http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO-3/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Disney XD
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Disney-XD-2900/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Disney Junior
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Disney-Junior/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Crime and Investigation
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Crime-and-Investigation/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", BBC
-http://ns335506.ip-5-196-76.eu:8080/live/PL-BBC/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", BBC Earth
-http://ns335506.ip-5-196-76.eu:8080/live/PL-BBC-Earth/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN Spin
-http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Spin/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN
-http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN Black
-http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Black-3730/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN SPIN
-http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Spin-8139/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN White
-http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-White/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN Style
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-Style/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Kultura
-http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Kultura/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Da Vinci Learning
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Da-Vinci-Learning/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eska
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Eska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polo TV
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Polo-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Stars TV
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Stars-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Music VOX
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Music-VOX/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Music VOX Olds Cool
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Music-VOX-Olds-Cool/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", ID
-http://ns335506.ip-5-196-76.eu:8080/live/PL-ID/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Kuchnia
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Kuchnia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Stella
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Stella/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Super Polsat
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Super-Polsat/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Universal
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Universal/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Viva Polska
-http://ns335506.ip-5-196-76.eu:8080/live/PL-Viva-Polska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", WP
-http://ns335506.ip-5-196-76.eu:8080/live/PL-WP/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:0 tvg-id="CanalplusFilm.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Canal+%20Film%20HD.png" group-title="Film" ,Canal+ Film HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/382/index.m3u8
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kuchnia+%20HD.png" group-title="Rozrywka" ,Kuchnia+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/387/index.m3u8
+#EXTINF:0 tvg-id="AleKino.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Ale%20Kino+%20HD.png" group-title="Film" ,Ale Kino+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/389/index.m3u8
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Canal+%20Seriale%20HD.png" group-title="Film" ,Canal+ Seriale HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/391/index.m3u8
+#EXTINF:0 tvg-id="CinemaxHD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Cinemax%20HD.png" group-title="Film" ,Cinemax HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/395/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Nat%20Geo%20Wild%20HD.png" group-title="Dokument" ,Nat Geo Wild HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/397/index.m3u8
+#EXTINF:0 tvg-id="CBSAction.pl" tvg-logo="http://epg.cvxcvx.pl/logo/CBS%20Action.png" group-title="Film" ,CBS Action
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/404/index.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" tvg-logo="http://epg.cvxcvx.pl/logo/BBC%20Earth%20HD.png" group-title="Dokument" ,BBC Earth HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/561/index.m3u8
+#EXTINF:0 tvg-id="HBO2.pl" tvg-logo="http://epg.cvxcvx.pl/logo/HBO%202%20HD.png" group-title="Film" ,HBO 2 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/563/index.m3u8
+#EXTINF:0 tvg-id="HBO3.pl" tvg-logo="http://epg.cvxcvx.pl/logo/HBO%203%20HD.png" group-title="Film" ,HBO 3 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/565/index.m3u8
+#EXTINF:0 tvg-id="TBNpolska.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TBN.png" group-title="Rozrywka" ,TBN Polska
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/372/index.m3u8
+#EXTINF:0 tvg-id="CanalplusFilm.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Canal+%20Film%20HD.png" group-title="Film" ,Canal+ Film HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/381/index.m3u8
+#EXTINF:0 tvg-id="Teletoon.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Teletoon+%20HD.png" group-title="Dla Dzieci" ,Teletoon+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/385/index.m3u8
+#EXTINF:0 tvg-id="PLANETE.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Planete+%20HD.png" group-title="Dokument" ,Planete+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/386/index.m3u8
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kuchnia+%20HD.png" group-title="Rozrywka" ,Kuchnia+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/388/index.m3u8
+#EXTINF:0 tvg-id="AleKino.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Ale%20Kino+%20HD.png" group-title="Film" ,Ale Kino+ HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/390/index.m3u8
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Canal+%20Seriale%20HD.png" group-title="Film" ,Canal+ Seriale HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/392/index.m3u8
+#EXTINF:0 tvg-id="FamilySport.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Active%20Family.png" group-title="Rozrywka" ,Active Family
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/393/index.m3u8
+#EXTINF:0 tvg-id="KinoPolska.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kino%20Polska.png" group-title="Film" ,Kino Polska
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/394/index.m3u8
+#EXTINF:0 tvg-id="CinemaxHD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Cinemax%20HD.png" group-title="Film" ,Cinemax HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/396/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Nat%20Geo%20Wild%20HD.png" group-title="Dokument" ,Nat Geo Wild HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/398/index.m3u8
+#EXTINF:0 tvg-id="WellbeingNetwork.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Wellbeing%20Network.png" group-title="Rozrywka" ,Wellbeing
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/401/index.m3u8
+#EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Stopklatka%20TV.png" group-title="Film" ,Stopklatka TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/402/index.m3u8
+#EXTINF:0 tvg-id="DaVinciLearning.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Da%20Vinci%20Learning.png" group-title="Dokument" ,Da Vinci Learning
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/403/index.m3u8
+#EXTINF:0 tvg-id="CBSAction.pl" tvg-logo="http://epg.cvxcvx.pl/logo/CBS%20Action.png" group-title="Film" ,CBS Action
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/405/index.m3u8
+#EXTINF:0 tvg-id="History.pl" tvg-logo="http://epg.cvxcvx.pl/logo/History.png" group-title="Dokument" ,History
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/406/index.m3u8
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Filmbox%20Arthouse.png" group-title="Film" ,Filmbox Arthouse
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/408/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" tvg-logo="http://epg.cvxcvx.pl/logo/DTX.png" group-title="Dokument" ,DTX
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/409/index.m3u8
+#EXTINF:0 tvg-id="TV6.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TV%206%20HD.png" group-title="Popularny" ,TV 6 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/410/index.m3u8
+#EXTINF:0 tvg-id="Tele5.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Tele%205.png" group-title="Popularny" ,Tele 5
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/505/index.m3u8
+#EXTINF:0 tvg-id="Polonia1.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Polonia%201.png" group-title="Dokument" ,Polonia 1
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/506/index.m3u8
+#EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Polo%20TV.png" group-title="Muzyka" ,Polo TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/520/index.m3u8
+#EXTINF:0 tvg-id="Mango24.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Mango%2024.png" group-title="Rozrywka" ,Mango 24
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/521/index.m3u8
+#EXTINF:0 tvg-id="NutaTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Nuta%20TV.png" group-title="Muzyka" ,Nuta TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/522/index.m3u8
+#EXTINF:0 tvg-id="NTL.pl" tvg-logo="http://epg.cvxcvx.pl/logo/NTL%20Radomsko.png" group-title="Popularny" ,NTL Radomsko
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/523/index.m3u8
+#EXTINF:0 tvg-id="EskaTVExtra.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Eska%20TV%20Extra.png" group-title="Muzyka" ,Eska TV Extra
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/524/index.m3u8
+#EXTINF:0 tvg-id="PowerTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Power%20TV.png" group-title="Muzyka" ,Power TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/525/index.m3u8
+#EXTINF:0 tvg-id="TO!TV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TO!TV.png" group-title="Muzyka" ,TOTV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/526/index.m3u8
+#EXTINF:0 tvg-id="StarsTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Stars%20TV.png" group-title="Muzyka" ,Stars TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/534/index.m3u8
+#EXTINF:0 tvg-id="4fun.pl" tvg-logo="http://epg.cvxcvx.pl/logo/4Fun.png" group-title="Muzyka" ,4Fun.TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/535/index.m3u8
+#EXTINF:0 tvg-id="4FunGoldHits.pl" tvg-logo="http://epg.cvxcvx.pl/logo/4Fun%20Hits.png" group-title="Muzyka" ,4Fun Gold Hits
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/536/index.m3u8
+#EXTINF:0 tvg-id="4FunDance.pl" tvg-logo="http://epg.cvxcvx.pl/logo/4Fun%20Fit%20Dance.png" group-title="Muzyka" ,4Fun Dance
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/537/index.m3u8
+#EXTINF:0 tvg-id="Filmbox.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kino%20TV.png" group-title="Film" ,Kino TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/550/index.m3u8
+#EXTINF:0 tvg-id="FilmboxPremium.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Filmbox%20Premium.png" group-title="Film" ,Filmbox Premium
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/552/index.m3u8
+#EXTINF:0 tvg-id="FilmboxAction.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Filmbox%20Action.png" group-title="Film" ,Filmbox Action
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/554/index.m3u8
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kino%20Polska%20Muzyka.png" group-title="Muzyka" ,Kino Polska Muzyka
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/555/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Discovery%20Historia.png" group-title="Dokument" ,Discovery Historia
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/557/index.m3u8
+#EXTINF:0 tvg-id="BBCHD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/BBC%20HD.png" group-title="Dokument" ,BBC HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/558/index.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" tvg-logo="http://epg.cvxcvx.pl/logo/BBC%20Earth%20HD.png" group-title="Dokument" ,BBC Earth HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/560/index.m3u8
+#EXTINF:0 tvg-id="HBO2.pl" tvg-logo="http://epg.cvxcvx.pl/logo/HBO%202%20HD.png" group-title="Film" ,HBO 2 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/562/index.m3u8
+#EXTINF:0 tvg-id="HBO3.pl" tvg-logo="http://epg.cvxcvx.pl/logo/HBO%203%20HD.png" group-title="Film" ,HBO 3 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/564/index.m3u8
+#EXTINF:0 tvg-id="VoxMusicTV.pl" tvg-logo="http://epg.cvxcvx.pl/logo/VOX%20Music%20TV.png" group-title="Muzyka" ,VOX Music TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/824/index.m3u8
+#EXTINF:0 tvg-id="TVS.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TVS.png" group-title="Popularny" ,TVS
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/825/index.m3u8
+#EXTINF:0 tvg-id="EskaROCK.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Eska%20Rock%20TV.png" group-title="Muzyka" ,Eska Rock TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/826/index.m3u8
+#EXTINF:0 tvg-id="Superstacja.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Superstacja.png" group-title="Informacje" ,Superstacja
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/874/index.m3u8
+#EXTINF:0 tvg-id="AXN.pl" tvg-logo="http://epg.cvxcvx.pl/logo/AXN.png" group-title="Rozrywka" ,AXN
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/875/index.m3u8
+#EXTINF:0 tvg-id="AXNWhite.pl" tvg-logo="http://epg.cvxcvx.pl/logo/AXN%20White.png" group-title="Rozrywka" ,AXN White
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/876/index.m3u8
+#EXTINF:0 tvg-id="TLC.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TLC.png" group-title="Rozrywka" ,TLC
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/878/index.m3u8
+#EXTINF:0 tvg-id="TVPuls.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TV%20Puls%20HD.png" group-title="Popularny" ,TV Puls HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/879/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Disney%20Channel%20HD.png" group-title="Dla Dzieci" ,Disney Channel HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/881/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryLife.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Discovery%20Life.png" group-title="Dokument" ,Discovery Life HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/885/index.m3u8
+#EXTINF:0 tvg-id="SundanceChannel.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Sundance%20TV%20HD.png" group-title="Film" ,Sundance TV HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/888/index.m3u8
+#EXTINF:0 tvg-id="Lifetime.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Lifetime%20HD.png" group-title="Rozrywka" ,Lifetime HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/889/index.m3u8
+#EXTINF:0 tvg-id="13Ulica.pl" tvg-logo="http://epg.cvxcvx.pl/logo/13%20Ulica%20HD.png" group-title="Rozrywka" ,13 Ulica HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/890/index.m3u8
+#EXTINF:0 tvg-id="Eurosport.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Eurosport%201%20HD.png" group-title="Sport" ,Eurosport 1 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/891/index.m3u8
+#EXTINF:0 tvg-id="AXNBlack.pl" tvg-logo="http://epg.cvxcvx.pl/logo/AXN%20Black.png" group-title="Rozrywka" ,AXN Black
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/892/index.m3u8
+#EXTINF:0 tvg-id="Boomerang.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Boomerang.png" group-title="Dla Dzieci" ,Boomerang
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/893/index.m3u8
+#EXTINF:0 tvg-id="Discovery.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Discovery%20Channel.png" group-title="Dokument" ,Discovery Channel
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/894/index.m3u8
+#EXTINF:0 tvg-id="Eurosport.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Eurosport%201%20HD.png" group-title="Sport" ,Eurosport 1
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/896/index.m3u8
+#EXTINF:0 tvg-id="E!.pl" tvg-logo="http://epg.cvxcvx.pl/logo/E!%20Entertainment.png" group-title="Rozrywka" ,E! Entertainment
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/897/index.m3u8
+#EXTINF:0 tvg-id="JimJam.pl" tvg-logo="http://epg.cvxcvx.pl/logo/JimJam%20Polsat.png" group-title="Dla Dzieci" ,JimJam Polsat
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/899/index.m3u8
+#EXTINF:0 tvg-id="FightBox.pl" tvg-logo="http://epg.cvxcvx.pl/logo/FightBox%20HD.png" group-title="Sport" ,FightBox HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/901/index.m3u8
+#EXTINF:0 tvg-id="SportKlub.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Sport%20Klub.png" group-title="Sport" ,Sport Klub HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/902/index.m3u8
+#EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Disney%20XD.png" group-title="Dla Dzieci" ,Disney XD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/916/index.m3u8
+#EXTINF:0 tvg-id="ZoneRomantica.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%20Romans.png" group-title="Rozrywka" ,Polsat Romans
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/917/index.m3u8
+#EXTINF:0 tvg-id="SciFi.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Scifi%20Universal.png" group-title="Film" ,SciFi
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/919/index.m3u8
+#EXTINF:0 tvg-id="TLC.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TLC%20HD.png" group-title="Rozrywka" ,TLC HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/920/index.m3u8
+#EXTINF:0 tvg-id="H2.pl" tvg-logo="http://epg.cvxcvx.pl/logo/H2%20HD.png" group-title="Dokument" ,H2 HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/921/index.m3u8
+#EXTINF:0 tvg-id="TCM.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TNT.png" group-title="Film" ,TNT
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/954/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/360TuneBox.jpg",360TuneBox
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/945/index.m3u8
+#EXTINF:0 tvg-id="KinoPolskaInt.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kino%20Polska%20International.png" group-title="Film" ,Kino Polska International
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/946/index.m3u8
+#EXTINF:0 tvg-id="Filmbox.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Kino%20TV.png" group-title="Film" ,Kino TV
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/948/index.m3u8
+#EXTINF:0 tvg-id="TCM.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TNT.png" group-title="Film" ,TNT
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/953/index.m3u8
+#EXTINF:0 tvg-id="Adventure.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Adventure%20HD.png" group-title="Rozrywka" ,Adventure HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/871/index.m3u8
+#EXTINF:0 tvg-id="TLC.pl" tvg-logo="http://epg.cvxcvx.pl/logo/TLC.png" group-title="Rozrywka" ,TLC
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/877/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Disney%20Channel%20HD.png" group-title="Dla Dzieci" ,Disney Channel HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/880/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryLife.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Discovery%20Life.png" group-title="Dokument" ,Discovery Life HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/884/index.m3u8
+#EXTINF:0 tvg-id="Eurosport.pl" tvg-logo="http://epg.cvxcvx.pl/logo/Eurosport%201%20HD.png" group-title="Sport" ,Eurosport 1
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/895/index.m3u8
+#EXTINF:0 tvg-id="JimJam.pl" tvg-logo="http://epg.cvxcvx.pl/logo/JimJam%20Polsat.png" group-title="Dla Dzieci" ,JimJam Polsat
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/898/index.m3u8
+#EXTINF:0 tvg-id="FightBox.pl" tvg-logo="http://epg.cvxcvx.pl/logo/FightBox%20HD.png" group-title="Sport" ,FightBox HD
+http://playlist.onlybest.tv/en/channel/738c6c0df4586f1e2347c5442ec863ff/900/index.m3u8
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="http://212.237.38.144/ikony/tvp1hd.png" group-title="OGOLNE",TVP 1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="http://212.237.38.144/ikony/tvp2hd.png" group-title="OGOLNE",TVP 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Polsat_HD_1.png" group-title="OGOLNE",Polsat
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/5.ts
+#EXTINF:-1 tvg-id="Polsat 2" tvg-logo="http://212.237.38.144/ikony/polsat2hd.png" group-title="OGOLNE",Polsat 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/6.ts
+#EXTINF:-1 tvg-id="TVN" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TVN_HD_1.png" group-title="OGOLNE",TVN
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/13.ts
+#EXTINF:-1 tvg-id="TVN 7" tvg-logo="http://212.237.38.144/ikony/tvn7hd.png" group-title="OGOLNE",TVN 7
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/44.ts
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TV_4_1.png" group-title="OGOLNE",TV 4
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/7.ts
+#EXTINF:-1 tvg-id="TV 6" tvg-logo="http://iptvwojt.000webhostapp.com/ico/tv6hd.png" group-title="OGOLNE",TV 6
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/98.ts
+#EXTINF:-1 tvg-id="BBC" tvg-logo="http://212.237.38.144/ikony/bbchd.png" group-title="OGOLNE",BBC
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/72.ts
+#EXTINF:-1 tvg-id="BBC Brit" tvg-logo="https://epg4iptv.com/icons/BBC%20Brit.png" group-title="OGOLNE",BBC Brit
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/58.ts
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-logo="http://212.237.38.144/ikony/tvprozrywka.png" group-title="OGOLNE",TVP Rozrywka
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://epg4iptv.com/icons/TVS.png" group-title="OGOLNE",TVS
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/41.ts
+#EXTINF:-1 tvg-id="TVP Info" tvg-logo="http://212.237.38.144/ikony/tvpinfohd.png" group-title="INFORMACYJNE",TVP Info
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/4.ts
+#EXTINF:-1 tvg-id="TVN 24" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TVN_24_HD_1.png" group-title="INFORMACYJNE",TVN 24
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/15.ts
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TVN_24_BiS_1.png" group-title="INFORMACYJNE",TVN 24 Biznes i Swiat
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/18.ts
+#EXTINF:-1 tvg-id="Polsat News" tvg-logo="http://212.237.38.144/ikony/polsatnewshd.png" group-title="INFORMACYJNE",Polsat News
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/9.ts
+#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="http://212.237.38.144/ikony/polsatnews2.png" group-title="INFORMACYJNE",Polsat News 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/99.ts
+#EXTINF:-1 tvg-id="TVP Warszawa" tvg-logo="http://212.237.38.144/ikony/tvp3warszawa.png" group-title="INFORMACYJNE",TVP 3 Warszawa
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/3.ts
+#EXTINF:-1 tvg-id="13 Ulica" tvg-logo="http://212.237.38.144/ikony/13ulica.png" group-title="FILMOWE",13 Ulica
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/73.ts
+#EXTINF:-1 tvg-id="Ale kino+" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png" group-title="FILMOWE",Ale kino+
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/60.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://iptvwojt.000webhostapp.com/ico/AMC_2.png" group-title="FILMOWE",AMC
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/66.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://212.237.38.144/ikony/axn.png" group-title="FILMOWE",AXN
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/104.ts
+#EXTINF:-1 tvg-id="CANAL+" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_HD_1.png" group-title="FILMOWE",Canal+
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/47.ts
+#EXTINF:-1 tvg-id="CANAL+ Film" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png" group-title="FILMOWE",Canal+ Film
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/48.ts
+#EXTINF:-1 tvg-id="CANAL+ Family" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_Family_HD_1.png" group-title="FILMOWE",Canal+ Family
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/51.ts
+#EXTINF:-1 tvg-id="CANAL+ Seriale" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png" group-title="FILMOWE",Canal+ Seriale
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/52.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://212.237.38.144/ikony/comedycentral.png" group-title="FILMOWE",Comedy Central
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/31.ts
+#EXTINF:-1 tvg-id="Comedy Central Family" tvg-logo="http://212.237.38.144/ikony/comedycentralfamily.png" group-title="FILMOWE",Comedy Central Family
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/30.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://212.237.38.144/ikony/cinemaxhd.png" group-title="FILMOWE",Cinemax
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/61.ts
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-logo="http://212.237.38.144/ikony/cbsreality.png" group-title="FILMOWE",CBS Reality
+ 
+#EXTINF:-1 tvg-id="Filmbox" tvg-logo="https://epg4iptv.com/icons/FilmBox%20HD.png" group-title="FILMOWE",Filmbox
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/79.ts
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="http://212.237.38.144/ikony/filmboxaction.png" group-title="FILMOWE",Filmbox Action
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/82.ts
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-logo="http://212.237.38.144/ikony/filmboxfamily.png" group-title="FILMOWE",Filmbox Family
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/81.ts
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-logo="http://iptvwojt.000webhostapp.com/ico/filmboxpremiumhd1.png" group-title="FILMOWE",Filmbox Premium
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/80.ts
+#EXTINF:-1 tvg-id="FOX Comedy" tvg-logo="https://epg4iptv.com/icons/FOX%20Comedy%20HD.png" group-title="FILMOWE",Fox Comedy
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/95.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://212.237.38.144/ikony/hbohd.png" group-title="FILMOWE",HBO
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/53.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="http://212.237.38.144/ikony/hbo2hd.png" group-title="FILMOWE",HBO2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/54.ts
+#EXTINF:-1 tvg-id="HBO3" tvg-logo="http://212.237.38.144/ikony/hbo3hd.png" group-title="FILMOWE",HBO3
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/55.ts
+#EXTINF:-1 tvg-id="Kino Polska" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Kino_Polska_1.png" group-title="FILMOWE",Kino Polska
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/43.ts
+#EXTINF:-1 tvg-id="Polsat Film" tvg-logo="http://212.237.38.144/ikony/polsatfilmhd.png" group-title="FILMOWE",Polsat Film
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/8.ts
+#EXTINF:-1 tvg-id="POLSAT Romans" tvg-logo="http://212.237.38.144/ikony/polsatromans.png" group-title="FILMOWE",Polsat Romans
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/74.ts
+#EXTINF:-1 tvg-id="TVN Fabula" tvg-logo="http://212.237.38.144/ikony/tvnfabulahd.png" group-title="FILMOWE",TVN Fabuła
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/87.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TNT_HD_1.png" group-title="FILMOWE",TNT
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/71.ts
+#EXTINF:-1 tvg-id="TVP HD" tvg-logo="http://212.237.38.144/ikony/tvphd.png" group-title="FILMOWE",TVP HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/109.ts
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-logo="http://212.237.38.144/ikony/tvpseriale.png" group-title="FILMOWE",TVP Seriale
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/77.ts
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="http://iptvwojt.000webhostapp.com/ico/elevensports1.png" group-title="SPORTOWE",Eleven Sports 1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/92.ts
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="http://iptvwojt.000webhostapp.com/ico/elevensports2.png" group-title="SPORTOWE",Eleven Sports 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/91.ts
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="http://iptvwojt.000webhostapp.com/ico/elevensports3.png" group-title="SPORTOWE",Eleven Sports 3 HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/93.ts
+#EXTINF:-1 tvg-id="CANAL+ Sport" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_Sport_HD_1.png" group-title="SPORTOWE",Canal+ Sport HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/49.ts
+#EXTINF:-1 tvg-id="nSport" tvg-logo="http://iptvwojt.000webhostapp.com/ico/nSport+_HD_1.png" group-title="SPORTOWE",nSport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/28.ts
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Eurosport_HD_1.png" group-title="SPORTOWE",Eurosport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/26.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="http://212.237.38.144/ikony/eurosport2hd.png" group-title="SPORTOWE",Eurosport 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/27.ts
+#EXTINF:-1 tvg-id="TVP Sport" tvg-logo="http://212.237.38.144/ikony/tvpsporthd.png" group-title="SPORTOWE",TVP Sport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/90.ts
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Polsat_Sport_HD_1.png" group-title="SPORTOWE",Polsat Sport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/21.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Polsat_Sport_Extra_HD_1.png" group-title="SPORTOWE",Polsat Sport Extra
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/20.ts
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Polsat_Sport_News_HD_1.png" group-title="SPORTOWE",Polsat Sport News HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/19.ts
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TVN_Turbo_HD_1.png" group-title="SPORTOWE",TVN Turbo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/16.ts
+#EXTINF:-1 tvg-id="Extreme" tvg-logo="http://212.237.38.144/ikony/extremesportshd.png" group-title="SPORTOWE",Extreme Sports
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/64.ts
+#EXTINF:-1 tvg-id="Polsat Food Network" tvg-logo="https://epg4iptv.com/icons/Food%20Network.png" group-title="LIFESTYLE",Food Network
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/89.ts
+#EXTINF:-1 tvg-id="Kuchnia+" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Kuchnia+_HD_1.png" group-title="LIFESTYLE",Kuchnia+
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/56.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://212.237.38.144/ikony/lifetimehd.png" group-title="LIFESTYLE",Lifetime
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/70.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://212.237.38.144/ikony/tlchd.png" group-title="LIFESTYLE",TLC
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/83.ts
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="http://212.237.38.144/ikony/polsatcafehd.png" group-title="LIFESTYLE",Polsat Cafe
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/11.ts
+#EXTINF:-1 tvg-id="Polsat Play" tvg-logo="http://212.237.38.144/ikony/polsatplayhd.png" group-title="LIFESTYLE",Polsat Play
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/10.ts
+#EXTINF:-1 tvg-id="TVN Style" tvg-logo="http://iptvwojt.000webhostapp.com/ico/TVN_Style_HD_1.png" group-title="LIFESTYLE",TVN Style
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/17.ts
+#EXTINF:-1 tvg-id="CANAL+ Discovery" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Canal+_Discovery_HD_1.png" group-title="POPULARNONAUKOWE",Canal+ Discovery
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/46.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://epg4iptv.com/icons/Discovery%20Channel.png" group-title="POPULARNONAUKOWE",Discovery Channel
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/22.ts
+#EXTINF:-1 tvg-id="Discovery Turbo Xtra" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Discovery_Turbo_Xtra_HD_1.png" group-title="POPULARNONAUKOWE",Discovery Turbo Xtra
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/25.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://iptvwojt.000webhostapp.com/ico/h21.png" group-title="POPULARNONAUKOWE",H2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/68.ts
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="http://iptvwojt.000webhostapp.com/ico/National_Geographic_HD_1.png" group-title="POPULARNONAUKOWE",National Geographic Channel
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/32.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://iptvwojt.000webhostapp.com/ico/Nat_Geo_Wild_HD_1.png" group-title="POPULARNONAUKOWE",Nat Geo Wild
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/29.ts
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://212.237.38.144/ikony/travelchannelhd.png" group-title="POPULARNONAUKOWE",Travel Channel HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/63.ts
+#EXTINF:-1 tvg-id="TVP Historia" tvg-logo="http://212.237.38.144/ikony/tvphistoria.png" group-title="POPULARNONAUKOWE",TVP Historia
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/44.ts
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-logo="http://212.237.38.144/ikony/tvpkultura.png" group-title="POPULARNONAUKOWE",TVP Kultura
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/45.ts
+#EXTINF:-1 tvg-id="MTV Polska" tvg-logo="http://iptvwojt.000webhostapp.com/ico/MTV_Polska_1.png" group-title="MUZYCZNE",MTV Polska
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/40.ts
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="http://212.237.38.144/ikony/mtvrocks.png" MTV Rocks" group-title="MUZYCZNE",MTV Rocks
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/94.ts
+#EXTINF:-1 tvg-id="VOX MUSIC TV" tvg-logo="http://212.237.38.144/ikony/voxmusictv.png" group-title="MUZYCZNE",VOX Music TV
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/105.ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://212.237.38.144/ikony/nickelodeonhd.png" group-title="BAJKI",Nickelodeon
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/100.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://iptvwojt.000webhostapp.com/ico/Nick_Jr_1.png" group-title="BAJKI",Nick Jr
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/101.ts
+#EXTINF:-1 tvg-id="TVP ABC" tvg-logo="http://212.237.38.144/ikony/tvpabc.png" group-title="BAJKI",TVP ABC
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/110.ts
