@@ -1,4 +1,210 @@
 #EXTM3U
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", 13 ulica
+http://ns335506.ip-5-196-76.eu:8080/live/PL-13-ulica/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Ale Kino
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Ale-Kino/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Amazing
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Amazing/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Animal Planet
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Animal-Planet/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", ATM Rozrywka
+http://ns335506.ip-5-196-76.eu:8080/live/PL-ATM-Rozrywka/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Astra TV
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Astra-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Cafe
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Cafe/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Film
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Film/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Romans
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Plosat-Romans/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Play
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Play/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat News
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-News/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat News 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-News-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Republika
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Republika/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport Extra
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-Extra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport News
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-News/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polsat Sport Fight
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polsat-Sport-Fight/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cartoon Network
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Cartoon-Network/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cinemax
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Cinemax/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Cinemax 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Cinemax-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal+
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal+/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Discovery
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Discovery/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Film
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Film/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Family
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Family/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Seriale
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Seriale/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Sport
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Canal Sport 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Canal-Sport-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven Extra
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven-Extra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eleven Sports
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eleven-Sports/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eurosport 1
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eurosport-1/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eurosport 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eurosport-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Extreme Sports
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Extreme-Sports/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", FightBox
+http://ns335506.ip-5-196-76.eu:8080/live/PL-FightBox/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Fokus
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Fokus/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", FOX Comedy
+http://ns335506.ip-5-196-76.eu:8080/live/PL-FOX-Comedy/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", nSport
+http://ns335506.ip-5-196-76.eu:8080/live/PL-nSport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", nSport Plus
+http://ns335506.ip-5-196-76.eu:8080/live/PL-nSport-Plus/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Kino Polska
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Kino-Polska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", History
+http://ns335506.ip-5-196-76.eu:8080/live/PL-History/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Channel
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Channel/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Historia
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Historia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Life
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Life/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery Turbo Xtra
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Turbo-Xtra/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Discovery science
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Discovery-Science/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Arthouse
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Arthouse/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Action
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Action/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Family
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Family/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Filmbox Premium
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Filmbox-Premium/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TLC
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TLC/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TNT
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TNT/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Puls
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Puls/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV Puls 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TV-Puls-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Trwam
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Trwam/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-7767/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN 7
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-7/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN Turbo
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-Turbo/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV4
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TV4/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TV6
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TV6/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", JimJam
+http://ns335506.ip-5-196-76.eu:8080/live/PL-JimJam/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 1
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-1/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP 3
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-3/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Historia
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Historia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Info
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Info/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Sport
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Sport/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Polonia
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Polonia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Seriale
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Seriale/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN24
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN24/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Nat Geo Wild
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Nat-Geo-Wild/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", National Geographic
+http://ns335506.ip-5-196-76.eu:8080/live/PL-National-Geographic/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Nickelodeon
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Nickelodeon/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO
+http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO 2
+http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO-2/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", HBO 3
+http://ns335506.ip-5-196-76.eu:8080/live/PL-HBO-3/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Disney XD
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Disney-XD-2900/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Disney Junior
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Disney-Junior/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Crime and Investigation
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Crime-and-Investigation/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", BBC
+http://ns335506.ip-5-196-76.eu:8080/live/PL-BBC/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", BBC Earth
+http://ns335506.ip-5-196-76.eu:8080/live/PL-BBC-Earth/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN Spin
+http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Spin/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN
+http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN Black
+http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Black-3730/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN SPIN
+http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-Spin-8139/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", AXN White
+http://ns335506.ip-5-196-76.eu:8080/live/PL-AXN-White/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVN Style
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVN-Style/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", TVP Kultura
+http://ns335506.ip-5-196-76.eu:8080/live/PL-TVP-Kultura/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Da Vinci Learning
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Da-Vinci-Learning/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Eska
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Eska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Polo TV
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Polo-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Stars TV
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Stars-TV/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Music VOX
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Music-VOX/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Music VOX Olds Cool
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Music-VOX-Olds-Cool/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", ID
+http://ns335506.ip-5-196-76.eu:8080/live/PL-ID/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Kuchnia
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Kuchnia/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Stella
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Stella/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Super Polsat
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Super-Polsat/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Universal
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Universal/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", Viva Polska
+http://ns335506.ip-5-196-76.eu:8080/live/PL-Viva-Polska/mpegts?token=001A794908FE:00-1A-79-49-08-FE
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="PL", WP
+http://ns335506.ip-5-196-76.eu:8080/live/PL-WP/mpegts?token=001A794908FE:00-1A-79-49-08-FE
 #EXTINF:-1 tvg-id="TVP 1" tvg-logo="http://212.237.38.144/ikony/tvp1hd.png" group-title="OGOLNE",TVP 1
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
 #EXTINF:-1 tvg-id="TVP 2" tvg-logo="http://212.237.38.144/ikony/tvp2hd.png" group-title="OGOLNE",TVP 2
