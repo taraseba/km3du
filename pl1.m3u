@@ -1,1 +1,199 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] 13 ULICA HD" tvg-logo="" group-title="POLAND",[PL] 13 ULICA HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] AXN HD" tvg-logo="" group-title="POLAND",[PL] AXN HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] AXN SPIN HD" tvg-logo="" group-title="POLAND",[PL] AXN SPIN HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CANAL  HD" tvg-logo="" group-title="POLAND",[PL] CANAL  HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CANAL  SPORT HD" tvg-logo="" group-title="POLAND",[PL] CANAL  SPORT HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CARTOON NETWORK HD" tvg-logo="" group-title="POLAND",[PL] CARTOON NETWORK HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CBS EUROPA HD" tvg-logo="" group-title="POLAND",[PL] CBS EUROPA HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CBS REALITY" tvg-logo="" group-title="POLAND",[PL] CBS REALITY
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] CINEMAX 2 HD" tvg-logo="" group-title="POLAND",[PL] CINEMAX 2 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] COMEDY CENTRAL POLAND HD" tvg-logo="" group-title="POLAND",[PL] COMEDY CENTRAL POLAND HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] COMEDY CENTRAL POLSKA" tvg-logo="" group-title="POLAND",[PL] COMEDY CENTRAL POLSKA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] DISCOVERY LIFE HD" tvg-logo="" group-title="POLAND",[PL] DISCOVERY LIFE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] DISCOVERY SCIENCE HD" tvg-logo="" group-title="POLAND",[PL] DISCOVERY SCIENCE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] DISNEY JUNIOR" tvg-logo="" group-title="POLAND",[PL] DISNEY JUNIOR
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] E! ENTERTAINMENT" tvg-logo="" group-title="POLAND",[PL] E! ENTERTAINMENT
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] ESKA ROCK TV" tvg-logo="" group-title="POLAND",[PL] ESKA ROCK TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] ESKA TV" tvg-logo="" group-title="POLAND",[PL] ESKA TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] ESKA TV EXTRA" tvg-logo="" group-title="POLAND",[PL] ESKA TV EXTRA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] EUROSPORT 1 HD" tvg-logo="" group-title="POLAND",[PL] EUROSPORT 1 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] EUROSPORT 2 HD" tvg-logo="" group-title="POLAND",[PL] EUROSPORT 2 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] EXTREME SPORTS HD" tvg-logo="" group-title="POLAND",[PL] EXTREME SPORTS HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FIGHTBOX HD" tvg-logo="" group-title="POLAND",[PL] FIGHTBOX HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FILMBOX ACTION" tvg-logo="" group-title="POLAND",[PL] FILMBOX ACTION
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FILMBOX EXTRA" tvg-logo="" group-title="POLAND",[PL] FILMBOX EXTRA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FILMBOX FAMILY" tvg-logo="" group-title="POLAND",[PL] FILMBOX FAMILY
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FILMBOX PREMIUM HD" tvg-logo="" group-title="POLAND",[PL] FILMBOX PREMIUM HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FOKUS TV" tvg-logo="" group-title="POLAND",[PL] FOKUS TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FOOD NETWORK HD" tvg-logo="" group-title="POLAND",[PL] FOOD NETWORK HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FOX COMEDY HD" tvg-logo="" group-title="POLAND",[PL] FOX COMEDY HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] FOX HD" tvg-logo="" group-title="POLAND",[PL] FOX HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] GOLF CHANNEL" tvg-logo="" group-title="POLAND",[PL] GOLF CHANNEL
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] H2 HD" tvg-logo="" group-title="POLAND",[PL] H2 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] HBO HD" tvg-logo="" group-title="POLAND",[PL] HBO HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] HISTORY HD" tvg-logo="" group-title="POLAND",[PL] HISTORY HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] KINO TV" tvg-logo="" group-title="POLAND",[PL] KINO TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] LIFETIME HD" tvg-logo="" group-title="POLAND",[PL] LIFETIME HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MANGO 24" tvg-logo="" group-title="POLAND",[PL] MANGO 24
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9097.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MANGO 24_" tvg-logo="" group-title="POLAND",[PL] MANGO 24_
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9096.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MINIMINI  HD" tvg-logo="" group-title="POLAND",[PL] MINIMINI  HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9095.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MTV LIVE HD" tvg-logo="" group-title="POLAND",[PL] MTV LIVE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MTV MUSIC POLSKA" tvg-logo="" group-title="POLAND",[PL] MTV MUSIC POLSKA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9093.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] MTV POLSKA HD" tvg-logo="" group-title="POLAND",[PL] MTV POLSKA HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NAT GEO PEOPLE HD" tvg-logo="" group-title="POLAND",[PL] NAT GEO PEOPLE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9091.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NATIONAL GEO" tvg-logo="" group-title="POLAND",[PL] NATIONAL GEO
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NATIONAL GEO HD" tvg-logo="" group-title="POLAND",[PL] NATIONAL GEO HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NICK JR POLSKA" tvg-logo="" group-title="POLAND",[PL] NICK JR POLSKA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9088.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NICKELODEON" tvg-logo="" group-title="POLAND",[PL] NICKELODEON
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9087.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NICKELODEON HD" tvg-logo="" group-title="POLAND",[PL] NICKELODEON HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9086.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NOWA TV" tvg-logo="" group-title="POLAND",[PL] NOWA TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NTL" tvg-logo="" group-title="POLAND",[PL] NTL
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9084.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] NUTA TV" tvg-logo="" group-title="POLAND",[PL] NUTA TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9083.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] PARAMAUNT CHANNEL HD" tvg-logo="" group-title="POLAND",[PL] PARAMAUNT CHANNEL HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLO TV" tvg-logo="" group-title="POLAND",[PL] POLO TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9081.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT" tvg-logo="" group-title="POLAND",[PL] POLSAT
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9080.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT 2 HD" tvg-logo="" group-title="POLAND",[PL] POLSAT 2 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9079.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT CAFE HD" tvg-logo="" group-title="POLAND",[PL] POLSAT CAFE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9078.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT DOKU HD" tvg-logo="" group-title="POLAND",[PL] POLSAT DOKU HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9077.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT FILM HD" tvg-logo="" group-title="POLAND",[PL] POLSAT FILM HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9076.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT HD" tvg-logo="" group-title="POLAND",[PL] POLSAT HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT NEWS 2" tvg-logo="" group-title="POLAND",[PL] POLSAT NEWS 2
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9074.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT NEWS HD" tvg-logo="" group-title="POLAND",[PL] POLSAT NEWS HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9073.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT PLAY HD" tvg-logo="" group-title="POLAND",[PL] POLSAT PLAY HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9072.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT EXTRA" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT EXTRA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9070.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT EXTRA HD" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT EXTRA HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9069.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT FIGHT HD" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT FIGHT HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9068.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT HD" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT SPORT NEWS HD" tvg-logo="" group-title="POLAND",[PL] POLSAT SPORT NEWS HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POLSAT VIASAT HISTORY HD" tvg-logo="" group-title="POLAND",[PL] POLSAT VIASAT HISTORY HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9065.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] POWER TV" tvg-logo="" group-title="POLAND",[PL] POWER TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9064.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] RTS UN HD" tvg-logo="" group-title="POLAND",[PL] RTS UN HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] SCIFI UNIVERSAL" tvg-logo="" group-title="POLAND",[PL] SCIFI UNIVERSAL
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9062.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] SRF 1 HD" tvg-logo="" group-title="POLAND",[PL] SRF 1 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] SRF ZWEI HD" tvg-logo="" group-title="POLAND",[PL] SRF ZWEI HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] SUDANCE HD" tvg-logo="" group-title="POLAND",[PL] SUDANCE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9059.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] SUPER POLSAT" tvg-logo="" group-title="POLAND",[PL] SUPER POLSAT
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9058.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TARVEL CHANNEL HD" tvg-logo="" group-title="POLAND",[PL] TARVEL CHANNEL HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9057.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TENIS PREMIUM 1" tvg-logo="" group-title="POLAND",[PL] TENIS PREMIUM 1
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9056.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TENIS PREMIUM 2" tvg-logo="" group-title="POLAND",[PL] TENIS PREMIUM 2
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9055.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TLC HD" tvg-logo="" group-title="POLAND",[PL] TLC HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9054.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TNT HD" tvg-logo="" group-title="POLAND",[PL] TNT HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9053.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TO!TV" tvg-logo="" group-title="POLAND",[PL] TO!TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9052.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TTV HD" tvg-logo="" group-title="POLAND",[PL] TTV HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9051.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TV PULS HD" tvg-logo="" group-title="POLAND",[PL] TV PULS HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9050.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TV4" tvg-logo="" group-title="POLAND",[PL] TV4
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9049.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TV4 HD" tvg-logo="" group-title="POLAND",[PL] TV4 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9048.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN 24 HD" tvg-logo="" group-title="POLAND",[PL] TVN 24 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9047.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN 7 HD" tvg-logo="" group-title="POLAND",[PL] TVN 7 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN FABULA" tvg-logo="" group-title="POLAND",[PL] TVN FABULA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN HD" tvg-logo="" group-title="POLAND",[PL] TVN HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9044.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN STYLE HD" tvg-logo="" group-title="POLAND",[PL] TVN STYLE HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVN TURBO HD" tvg-logo="" group-title="POLAND",[PL] TVN TURBO HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVP 2 HD" tvg-logo="" group-title="POLAND",[PL] TVP 2 HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9041.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVP HISTORIA" tvg-logo="" group-title="POLAND",[PL] TVP HISTORIA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9040.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVP KULTURA" tvg-logo="" group-title="POLAND",[PL] TVP KULTURA
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVP SERIALE" tvg-logo="" group-title="POLAND",[PL] TVP SERIALE
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9038.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] TVS" tvg-logo="" group-title="POLAND",[PL] TVS
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9037.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] UNIVERSAL HD" tvg-logo="" group-title="POLAND",[PL] UNIVERSAL HD
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[PL] VOX MUSIC TV" tvg-logo="" group-title="POLAND",[PL] VOX MUSIC TV
+http://live.ontiptv.com:8000/live/POLAND/POLAND/9035.ts
